@@ -1,0 +1,10 @@
+1.- Variables:
+Las variables son un conjunto de datos que podemos encerrar en una palabra o "variable", que podemos usar para distintas operaciones y no tener que volver a escribir el codigo cada vez que lo necesitamos.
+2.- String:
+El string es una cadena de caracteres,
+3.- Funciones (Argumentos, return):
+Las funciones son un conjunto de instrucciones para realizar una tarea o calcular  un valor, el return es lo que se usa para la salida del resultado de esta tarea o calculo de valores.
+4.- Declaraciones if:
+If es un condicional que nos ayuda a obtener resultados segun lo que suceda dentro de una instruccion.
+5.- Valores booleanos (true, false): 
+Los valores booleanos son variables que se usan para almacenar informacion del tipo "si" o "no", true o false.
