@@ -1,0 +1,8 @@
+for:
+For es una expresion para generar un bucle, donde podemos incrementar un valor o ejecutar una sentencia tantas veces sea verdadera.
+
+&&, ||, !:
+
+Son operadores logicos, el valor && devuelve true si todas las expresiones son verdaderas, se evalua de izquierda a derecha.
+El operador ||, devuelve true si cualquiera de las expresiones son verdaderas.
+El operador !, NOT o no, siempre esta preguntando lo contrario q la expresion.
